@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "10ED717F3F9213F0CF58ABFF5B967FB2"
-               BuildableName = "gleadSmart.app"
-               BlueprintName = "gleadSmart"
+               BuildableName = "jienuo.app"
+               BlueprintName = "jienuo"
                ReferencedContainer = "container:jienuo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,8 +33,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "01B04D0DF67B68F2F18C016E826B07C9"
-               BuildableName = "gleadSmartTests.xctest"
-               BlueprintName = "gleadSmartTests"
+               BuildableName = "jienuoTests.xctest"
+               BlueprintName = "jienuoTests"
                ReferencedContainer = "container:jienuo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -43,8 +43,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "61F812B805B28D0EFD9E7D2838D82996"
-               BuildableName = "gleadSmartUITests.xctest"
-               BlueprintName = "gleadSmartUITests"
+               BuildableName = "jienuoUITests.xctest"
+               BlueprintName = "jienuoUITests"
                ReferencedContainer = "container:jienuo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10ED717F3F9213F0CF58ABFF5B967FB2"
-            BuildableName = "gleadSmart.app"
-            BlueprintName = "gleadSmart"
+            BuildableName = "jienuo.app"
+            BlueprintName = "jienuo"
             ReferencedContainer = "container:jienuo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10ED717F3F9213F0CF58ABFF5B967FB2"
-            BuildableName = "gleadSmart.app"
-            BlueprintName = "gleadSmart"
+            BuildableName = "jienuo.app"
+            BlueprintName = "jienuo"
             ReferencedContainer = "container:jienuo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -110,8 +110,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10ED717F3F9213F0CF58ABFF5B967FB2"
-            BuildableName = "gleadSmart.app"
-            BlueprintName = "gleadSmart"
+            BuildableName = "jienuo.app"
+            BlueprintName = "jienuo"
             ReferencedContainer = "container:jienuo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
