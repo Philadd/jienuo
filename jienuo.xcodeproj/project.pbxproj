@@ -2411,14 +2411,14 @@
 				163612BB24B0FB9228947700D5747E51 /* Frameworks */,
 				2F7B6E7735C42E4CCF2CA8C6345194B5 /* Pods */,
 				BDE1492BC852F8B171AE1D21FCA4E2F8 /* Products */,
-				5D0F85D89FD47E4B3BB6DD71E95FFEA2 /* gleadSmart */,
+				5D0F85D89FD47E4B3BB6DD71E95FFEA2 /* jienuo */,
 				755C7D22B5838EA3696C1378B965029D /* gleadSmartTests */,
 				693DE2CEAD00506C6A50E1884404F8AF /* gleadSmartUITests */,
 				AF53541248452249CB1131942EECD21E /* jienuoIOT */,
 			);
 			sourceTree = "<group>";
 		};
-		5D0F85D89FD47E4B3BB6DD71E95FFEA2 /* gleadSmart */ = {
+		5D0F85D89FD47E4B3BB6DD71E95FFEA2 /* jienuo */ = {
 			isa = PBXGroup;
 			children = (
 				656BDE6E05295837B9B786131EF534D9 /* AFNetworking */,
@@ -2443,7 +2443,7 @@
 				6CEBD5153F0D34FE9B6E41A6B31F4710 /* gleadSmart.entitlements */,
 				507F66339B336FBC363BE81B9C098966 /* main.m */,
 			);
-			path = gleadSmart;
+			path = jienuo;
 			sourceTree = "<group>";
 		};
 		5E11BC0732DD6655F691AA6A26593AF1 /* Device */ = {
@@ -4736,6 +4736,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "";
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -4782,7 +4783,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "gleadSmart/jienuo-Prefix.pch";
+				GCC_PREFIX_HEADER = "jienuo/jienuo-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"COCOAPODS=1",
@@ -4814,7 +4815,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "gleadSmart/gleadSmart-Prefix.pch";
+				GCC_PREFIX_HEADER = "jienuo/jienuo-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"COCOAPODS=1",
@@ -4891,6 +4892,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREFIX_HEADER = "";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -4942,7 +4944,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "gleadSmart/jienuo-Prefix.pch";
+				GCC_PREFIX_HEADER = "jienuo/jienuo-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"COCOAPODS=1",
@@ -4993,7 +4995,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "gleadSmart/gleadSmart-Prefix.pch";
+				GCC_PREFIX_HEADER = "jienuo/jienuo-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"COCOAPODS=1",
